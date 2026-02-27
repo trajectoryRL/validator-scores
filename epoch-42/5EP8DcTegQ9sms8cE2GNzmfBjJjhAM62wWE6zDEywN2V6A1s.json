@@ -1,0 +1,20 @@
+{
+  "block_height": 150000,
+  "epoch": 42,
+  "scores": {
+    "uid_0": {
+      "final_score": 0.85,
+      "per_scenario": {
+        "client_escalation": 0.92
+      }
+    },
+    "uid_1": {
+      "final_score": 0.72,
+      "per_scenario": {
+        "client_escalation": 0.72
+      }
+    }
+  },
+  "signature": "f2c5eca48e3463a0946bf9582ad05a05f531e06cbc035e446916e44ad21c0c1744557e59c84709bfbd8e747370bf5c90167ed76590a86c605dc3f28042a89982",
+  "validator_hotkey": "5EP8DcTegQ9sms8cE2GNzmfBjJjhAM62wWE6zDEywN2V6A1s"
+}
