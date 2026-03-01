@@ -1,0 +1,12 @@
+{
+  "block_height": 7650154,
+  "epoch": 20513,
+  "scores": {
+    "74": {
+      "final_score": 1.0,
+      "per_scenario": {}
+    }
+  },
+  "signature": "7a466d191a89f40ad6c0bdc20567fca9af55d81930eb5bf4c948b0c6cfe3da1cb1da42c71ecd4260d368184a84706de20971c73579fe53b2b7585b7df08b238c",
+  "validator_hotkey": "5EcgNdYQ5isMHg77TfAQYHCgJYrDG9Z3btXGgkTZ4Fwu797f"
+}
