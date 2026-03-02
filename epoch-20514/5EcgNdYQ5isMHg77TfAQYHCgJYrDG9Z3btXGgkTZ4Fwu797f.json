@@ -1,5 +1,5 @@
 {
-  "block_height": 7655322,
+  "block_height": 7655449,
   "epoch": 20514,
   "scores": {
     "74": {
@@ -7,6 +7,6 @@
       "per_scenario": {}
     }
   },
-  "signature": "5eb95a060f342b33929b789a367b55c5dcc3462071d682ed4a9731c1d4416c3286692c592cc0c4844c0376880e302a686fc0f588a9fe601671f8d2c60b373280",
+  "signature": "c42596b4527d723a736543302721620fea4b4bb3233d276039d2aa16c9ec076fa163421114c1a7cda2582fa54f88665653128e4ac06f9d5fc42976c8e97b7c8b",
   "validator_hotkey": "5EcgNdYQ5isMHg77TfAQYHCgJYrDG9Z3btXGgkTZ4Fwu797f"
 }
